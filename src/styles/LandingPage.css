@@ -1,8 +1,8 @@
  
 
 @keyframes slide {
-    0%, 10%  { transform: translateX(0); }
-    15%, 40% {transform: translateX(-25%)}
+    0%, 15%  { transform: translateX(0); }
+    25%, 40% {transform: translateX(-25%)}
     50%, 75% {transform: translateX(-50%)}
     85% , 100%{transform: translateX(-75%);}   
   }
