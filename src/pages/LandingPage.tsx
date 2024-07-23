@@ -28,7 +28,7 @@ const LandingPage = ({ }) => {
                         src="https://images.unsplash.com/photo-1570831739435-6601aa3fa4fb?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt="product" />
                 </div>
-                <div className="buttons flex mt-10 gap-3 ">
+                <div className="buttons flex mt-10 gap-2 ">
                     <button className='bg-black text-white rounded-[2px] w-[10vh] hover:bg-slate-950'>Sign In</button>
                     <button className='bg-black text-white rounded-[2px] w-[10vh] hover:bg-slate-950'>Log In</button>
                     <button className='bg-black text-white rounded-[2px] w-[10vh] hover:bg-slate-950'>Explore</button>
